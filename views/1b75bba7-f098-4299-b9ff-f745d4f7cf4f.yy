@@ -1,0 +1,32 @@
+{
+    "id": "1b75bba7-f098-4299-b9ff-f745d4f7cf4f",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "1b75bba7-f098-4299-b9ff-f745d4f7cf4f",
+    "children": [
+        "54a19c7f-8946-46ce-b4ca-f2b426938e3d",
+        "8dacc8a0-3dc2-4046-8b2b-7382065fef1f",
+        "fb7c9496-63d8-4c82-8846-8b2771b16d04",
+        "cc7bb4b8-1a60-4711-b2b4-04de09ebc510",
+        "a3bd5c76-031c-4ede-96d4-633b138dcbd5",
+        "48871410-f641-4272-a81d-ca67bef80609",
+        "d372346b-2d6b-4380-8bf6-ebcdb703f791",
+        "b869c942-4d8f-4958-91f6-fcd7bd352a05",
+        "9aa45448-a87c-42f5-b98a-e875eed3b68a",
+        "0ff9b4c2-3ff9-4542-943b-2c680adfc1a6",
+        "07d72917-0a07-4e42-b282-5ac22a6c4765",
+        "6a2763e7-637f-453a-885b-a56fe56fd708",
+        "ec84a68f-9f52-4f9f-9790-82d4d7355df6",
+        "0f77773a-87e2-40a9-a523-ed1e5bff9264",
+        "7c6329d1-3fe0-4a3c-850f-68b614052a03",
+        "ae1f2d1c-03f9-4eb8-9e2c-e9407167359e",
+        "06880594-ed8e-4e7b-abbf-e4f351dd64a4",
+        "2386e267-31f0-4e5e-a5ee-93e124baa8eb",
+        "cc128079-d57e-4544-b11f-5e08eaa73d5e",
+        "d8cfc46c-c8df-4318-9b63-e3a075bb6672"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Interactables",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -1,0 +1,1 @@
+image_alpha = clamp(image_alpha + (fade * 0.2),0,.8);

@@ -1,0 +1,1 @@
+cantSeek = 0;

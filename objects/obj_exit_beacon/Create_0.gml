@@ -1,0 +1,13 @@
+maxlength = 512;
+currentlength = 32;
+seg1 = currentlength / 6;
+seg1alpha = 1;
+seg2 = (2*currentlength) / 6;
+seg2alpha = .8;
+seg3 = (3*currentlength) / 6;
+seg3alpha = .6;
+seg4 = (4*currentlength) / 6;
+seg4alpha = .4;
+seg5 = (5*currentlength) / 6;
+seg5alpha = 1;
+seg6alpha = 1;
